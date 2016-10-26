@@ -8,7 +8,8 @@ Every once in a while the website gets updated with a new set of videos.
 Right now it's just one video, without the switcher.
 You can see it live here: [CLICK](http://mostrecords.co).
 
-Here you can see how it used to look: [CLICK](http://most.olagjd.com). 
+Here you can see how it used to look: [CLICK](http://most.olagjd.com).   
+
 
 ![](http://img.olagjd.com/most-land.png)
 
