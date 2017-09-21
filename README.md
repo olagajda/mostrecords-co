@@ -8,12 +8,12 @@ Every once in a while the website gets updated with a new set of videos.
 Right now it's just one video, without the switcher.
 You can see it live here: [CLICK](http://mostrecords.co).
 
-Here you can see how it used to look: [CLICK](http://most.olagjd.com).   
+Here you can see how it used to look: [CLICK](http://most.aleksandragajda.com).   
 
 
-![](http://img.olagjd.com/most-land.png)
+![](http://img.aleksandragajda.com/most-land.png)
 
-![](http://img.olagjd.com/most-duit.gif)
+![](http://img.aleksandragajda.com/most-duit.gif)
 
-![](http://img.olagjd.com/most-subscribe.gif)
+![](http://img.aleksandragajda.com/most-subscribe.gif)
 
